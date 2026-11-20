@@ -12,7 +12,7 @@ class to
     }
     else
     {
-      System.out.print("type"+a+"to crack");
+      System.out.print("type"+a+"to crackhi");
     }
     }
 }
